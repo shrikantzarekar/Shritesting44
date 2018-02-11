@@ -1,0 +1,33 @@
+{
+  "name": "Shritesting4",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "config": "^1.20.4",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Shrikant Zarekar",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  ],
+  "license": "MIT"
+}
