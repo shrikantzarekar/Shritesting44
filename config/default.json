@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "9483546613a9973810c94addfdf1d6c3",
+    "pageAccessToken": "EAAQ3tRELicEBAKusRTSQbZAPZBDW7x7KXOL0qqwLgVyfkB4crpkARPfdZCHYykfjpbv9dDJZBzeyonTYZCAnqUz5UtaDaPL6gKN2vIHJY0QS0IVD89phnf9WoTMJeyfZB54mFfeE1M7gmR1XkfS07FJ4xOMb8zS28H8eEYYyPdYCK1MQ3axzIf",
+    "validationToken": "shritest123",
+    "serverURL": "https://shritesting44.herokuapp.com/"
 }
